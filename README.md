@@ -1,3 +1,3 @@
-# ML_projects
+# COVID_19_CNN
 
-Here I bring to the masses my ML projects :) 
+Detection of covid-19  
