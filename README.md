@@ -1,3 +1,3 @@
-# COVID_19_CNN
+# Projetos de Machine Learning em geral
 
-Detection of covid-19  
+Aqui faço upload de listas que fiz na universidade, projetos do Kaggle e projetos pessoais :) 
